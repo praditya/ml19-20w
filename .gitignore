@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 lecture_code/cs771/__pycache__/
 lecture_code/.ipynb_checkpoints/
 
+=======
+lecture_code/cs771/__pycache__/
+lecture_code/.ipynb_checkpoints/
+
+>>>>>>> updated gitignore for temporary files
 ~$*
